@@ -5,4 +5,35 @@
 
 body {
     background-color: yellow;
+    font-family: sans-serif;
 }
+center {
+    border: 2px solid black;
+    border-radius: 22px;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    margin: 280px 300px;
+}
+
+h2 {
+    padding: 22px;
+    letter-spacing: 2px;
+}
+
+button 
+{
+    width: 120px;
+    padding: 4px;
+    margin:22px 4px;
+    background-color:black;
+    color: yellow;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+
+
+
+
